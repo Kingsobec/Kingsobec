@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Hiii👋. I'm Sobechukwu.
 A Front-end developer.
 
-🌐 Based in Enugu, Nigeria.
-🌱 I’m currently learning technologies in Front-end and will be embarking on my back-end journey in 2023.
-👯 I’m open to collaborate on projects and also contributing to open source.
-📫 You can reach me on https://twitter.com/kingsobec.
-🔭 I’m currently working on catsyard.io as a web developer of an nft project.
+- 🌐 Based in Enugu, Nigeria.
+- 🌱 I’m currently learning technologies in Front-end and will be embarking on my back-end journey in 2023.
+- 👯 I’m open to collaborate on projects and also contributing to open source.
+- 📫 You can reach me on https://twitter.com/kingsobec.
+- 🔭 I’m currently working on catsyard.io as a web developer of an nft project.
 
