@@ -21,5 +21,5 @@ A Front-end developer.
 - 🌱 I’m currently learning technologies in Front-end and will be embarking on my back-end journey in 2023.
 - 👯 I’m open to collaborate on projects and also contributing to open source.
 - 📫 You can reach me on kingsobec@gmail.com and https://twitter.com/kingsobec.
-- 🔭 I’m currently working on https://catsyard.io/ as a web developer of an nft project.
+- 🔭 I’m currently working on https://catsyard.io/ as a web developer of an nft project. (I hosted this on github but it was demanded that I remove the file from the public).
 
